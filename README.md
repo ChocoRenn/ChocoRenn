@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm a ME student from National Tsing Hua University in Taiwan. I'm interested in control theory, embedded systems their applications in robotics, autonmous vehicles, IoT systems, etc.
+
 
 <!--
 **ChocoRenn/ChocoRenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
